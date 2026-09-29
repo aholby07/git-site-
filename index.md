@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+Kitty World: Welcome to my blog!
+welcome to kitty cat world
 ---
